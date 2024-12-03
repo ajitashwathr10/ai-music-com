@@ -1,5 +1,10 @@
 # Music Generation with Magenta RNN
 
+[![GitHub stars](https://img.shields.io/github/stars/ajitashwathr10/music-magenta-rnn?style=social)](https://github.com/ajitashwathr10/music-magenta-rnn/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ajitashwathr10/music-magenta-rnn?style=social)](https://github.com/ajitashwathr10/music-magenta-rnn/network)
+[![Issues](https://img.shields.io/github/issues/ajitashwathr10/music-magenta-rnn)](https://github.com/ajitashwathr10/music-magenta-rnn/issues)
+[![MIT License](https://img.shields.io/github/license/ajitashwathr10/music-magenta-rnn)](LICENSE)
+
 ## Introduction
 This Python based script generates music using the `Magenta` library, specifically utilizing the Melody RNN model. The script allows users to specify a preferred genre and tempo, and it outputs MIDI files based on these inputs.
 
@@ -57,7 +62,7 @@ The script follows these main steps:
 ## Acknowledgement
 This script was created using the Magenta library, developed by the Magenta team at Google. Special thanks to the open-source community for providing the tools and frameworks necessary for developing such innovative applications.
 
-For more information on Magenta and its capabilities, visit the [Magenta GitHub repository]:https://github.com/magenta/magenta
+For more information on Magenta and its capabilities, visit the [Magenta GitHub repository](https://github.com/magenta/magenta)
 
 
 
