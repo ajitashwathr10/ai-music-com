@@ -1,2 +1,5 @@
-pip install magenta
-
+magenta
+numpy
+random
+os
+typing
